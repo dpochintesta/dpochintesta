@@ -7,7 +7,7 @@ I am Brazilian, Carioca, Business and Systems Analyst, a Scrum, 6sigma and Micro
 - 🌱 I’m currently learning a lot of cool stuff to put into practice as soon as possible
 - 🤔 I’m looking for help with professional replacement
 - 💬 Ask me about anything you want!
-- 📫 You can reach me via e-mail (mailto:contato@danielpochintesta.com) or my LinkedIn profile (https://www.linkedin.com/in/danielpochintesta)
+- 📫 You can reach me via e-mail (contato@danielpochintesta.com) or my LinkedIn profile (https://www.linkedin.com/in/danielpochintesta)
 
 - ⚡ Fun fact: I am currently developing a blog / vlog / whatever about tourism, with a lot of humor and curiosities around the world (in Portuguese).
 <!--
