@@ -1,1 +1,26 @@
-# who-am-i
+### Hi everyone 👋, I am Daniel Pochintesta!
+
+![LinkedIn Cover](https://media-exp1.licdn.com/dms/image/C4D16AQF1r6pha12Nsg/profile-displaybackgroundimage-shrink_350_1400/0?e=1600905600&v=beta&t=m-ee8ZgGo6BhP_vXROV9GhPVBkSJnFxM0APpptybJ_Y)
+
+I am Brazilian, Carioca, Business and Systems Analyst, a Scrum, 6sigma and Microsoft Certified Professional, passionate about technology, especially IT management, security, controls and auditing. IBM Recognized Teacher at hands on SQL sessions and Enthusiastic about everything technology can achieve!
+
+- 🌱 I’m currently learning a lot of cool stuff to put into practice as soon as possible
+- 🤔 I’m looking for help with professional replacement
+- 💬 Ask me about anything you want!
+- 📫 You can reach me via e-mail (mailto:contato@danielpochintesta.com) or my LinkedIn profile (https://www.linkedin.com/in/danielpochintesta)
+
+- ⚡ Fun fact: I am currently developing a blog / vlog / whatever about tourism, with a lot of humor and curiosities around the world (in Portuguese).
+<!--
+**dpochintesta/who-am-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
